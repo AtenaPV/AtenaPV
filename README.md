@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner - Nature + Athena inspired -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,30:2D6A4F,70:40916C,100:52B788&height=200&section=header&text=AtenaPV&fontSize=54&fontColor=F8F9FA&fontAlignY=38&desc=Wisdom%20•%20Nature%20•%20Strategy&descSize=18&descAlignY=58&descColor=D8F3DC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,30:2D6A4F,70:40916C,100:52B788&height=200&section=header&text=Atena&fontSize=54&fontColor=F8F9FA&fontAlignY=38&desc=Wisdom%20•%20Nature%20•%20Strategy&descSize=18&descAlignY=58&descColor=D8F3DC" width="100%"/>
 
 <br/>
 
