@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AtenaPV/AtenaPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/AtenaPV/AtenaPV/main/assets/atena-profile.jpg" 
+     alt="𝐀𝐭𝐞𝐧𝐚" 
+     width="100%" 
+     style="border-radius: 16px; border: 3px solid #4b0082; box-shadow: 0 0 40px rgba(139, 0, 139, 0.6);">
 
-Here are some ideas to get you started:
+<h1 style="color: #e0b0ff; font-family: Georgia, serif; text-shadow: 0 0 30px #8b008b; letter-spacing: 4px; margin: 20px 0 8px;">
+  𝐀𝐭𝐞𝐧𝐚
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="color: #c8a2c8; font-size: 1.35em; margin-top: 0;">
+  <em>Empress of Wisdom — Weaver of Eternal Strategy</em>
+</p>
+
+</div>
+
+---
+
+###
+
+```txt
+**"Atena, the luminous strategist of the gods, forges victory from the silent loom of night and cuts through destiny with a mind sharper than any spear."**
